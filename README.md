@@ -1,1 +1,1 @@
-# chat-java-sockets
+# Discussion Forum of RiddleMe
